@@ -1,0 +1,22 @@
+++++ ENTRY BEGIN ++++
+Fri Dec 16 2016 19:26:15 GMT-0600 (CST)
+ 
+TERMINAL COMMANDS:
+$: /usr/local/Cellar/node/6.6.0/bin/node,/Users/Dee/Documents/bootcamp/homework8/liri-node-app/liri.js,my-tweets
+ 
+DATA OUTPUT:
+------- Twitter Entry Begins ----------
+Fri Dec 16 2016 20:17:19 GMT-0600 (CST)
+ 
+TERMINAL COMMANDS:
+$: /usr/local/Cellar/node/6.6.0/bin/node,/Users/Dee/Documents/bootcamp/homework8/liri-node-app/liri.js,my-tweets
+ 
+DATA OUTPUT:
+------- Twitter Entry Begins ----------
+Fri Dec 16 2016 20:37:34 GMT-0600 (CST)
+ 
+DATA OUTPUT:
+------- Twitter Entry Begins ----------
+Fri Dec 16 2016 20:42:58 GMT-0600 (CST)
+ 
+DATA OUTPUT:
